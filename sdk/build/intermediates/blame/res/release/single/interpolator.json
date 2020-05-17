@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_1.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/8399f5500dd7d4fedde9e5173720821e/res/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_1.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/interpolator/fast_out_slow_in.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/8399f5500dd7d4fedde9e5173720821e/res/interpolator/fast_out_slow_in.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/interpolator/btn_radio_to_on_mtrl_animation_interpolator_0.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/8399f5500dd7d4fedde9e5173720821e/res/interpolator/btn_radio_to_on_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_0.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/8399f5500dd7d4fedde9e5173720821e/res/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_0.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/8399f5500dd7d4fedde9e5173720821e/res/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/interpolator/btn_radio_to_off_mtrl_animation_interpolator_0.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/8399f5500dd7d4fedde9e5173720821e/res/interpolator/btn_radio_to_off_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_1.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/8399f5500dd7d4fedde9e5173720821e/res/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_1.xml"
+    }
+]

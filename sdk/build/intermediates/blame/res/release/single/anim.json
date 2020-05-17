@@ -1,0 +1,146 @@
+[
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/anim/abc_tooltip_enter.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/8399f5500dd7d4fedde9e5173720821e/res/anim/abc_tooltip_enter.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/anim/btn_radio_to_off_mtrl_dot_group_animation.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/8399f5500dd7d4fedde9e5173720821e/res/anim/btn_radio_to_off_mtrl_dot_group_animation.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/anim/btn_radio_to_on_mtrl_dot_group_animation.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/8399f5500dd7d4fedde9e5173720821e/res/anim/btn_radio_to_on_mtrl_dot_group_animation.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/8399f5500dd7d4fedde9e5173720821e/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/8399f5500dd7d4fedde9e5173720821e/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/anim/catalyst_fade_out.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.61.0.aar/ac53a2befb0ee461b72a6bc12ea03e94/res/anim/catalyst_fade_out.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/anim/catalyst_push_up_out.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.61.0.aar/ac53a2befb0ee461b72a6bc12ea03e94/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/anim/btn_checkbox_to_checked_icon_null_animation.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/8399f5500dd7d4fedde9e5173720821e/res/anim/btn_checkbox_to_checked_icon_null_animation.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/8399f5500dd7d4fedde9e5173720821e/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/anim/btn_checkbox_to_checked_box_inner_merged_animation.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/8399f5500dd7d4fedde9e5173720821e/res/anim/btn_checkbox_to_checked_box_inner_merged_animation.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/anim/btn_radio_to_on_mtrl_ring_outer_animation.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/8399f5500dd7d4fedde9e5173720821e/res/anim/btn_radio_to_on_mtrl_ring_outer_animation.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/anim/catalyst_push_up_in.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.61.0.aar/ac53a2befb0ee461b72a6bc12ea03e94/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/8399f5500dd7d4fedde9e5173720821e/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/anim/catalyst_fade_in.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.61.0.aar/ac53a2befb0ee461b72a6bc12ea03e94/res/anim/catalyst_fade_in.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/anim/btn_checkbox_to_unchecked_box_inner_merged_animation.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/8399f5500dd7d4fedde9e5173720821e/res/anim/btn_checkbox_to_unchecked_box_inner_merged_animation.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/anim/btn_radio_to_on_mtrl_ring_outer_path_animation.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/8399f5500dd7d4fedde9e5173720821e/res/anim/btn_radio_to_on_mtrl_ring_outer_path_animation.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/8399f5500dd7d4fedde9e5173720821e/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/anim/catalyst_slide_up.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.61.0.aar/ac53a2befb0ee461b72a6bc12ea03e94/res/anim/catalyst_slide_up.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/anim/btn_checkbox_to_unchecked_check_path_merged_animation.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/8399f5500dd7d4fedde9e5173720821e/res/anim/btn_checkbox_to_unchecked_check_path_merged_animation.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/anim/fragment_close_enter.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/fragment-1.2.0.aar/83c11b0f656c5895f22737b2d8d1b5a3/res/anim/fragment_close_enter.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/8399f5500dd7d4fedde9e5173720821e/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/anim/btn_radio_to_off_mtrl_ring_outer_path_animation.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/8399f5500dd7d4fedde9e5173720821e/res/anim/btn_radio_to_off_mtrl_ring_outer_path_animation.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/anim/btn_radio_to_off_mtrl_ring_outer_animation.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/8399f5500dd7d4fedde9e5173720821e/res/anim/btn_radio_to_off_mtrl_ring_outer_animation.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/anim/fragment_close_exit.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/fragment-1.2.0.aar/83c11b0f656c5895f22737b2d8d1b5a3/res/anim/fragment_close_exit.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/anim/fragment_fade_enter.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/fragment-1.2.0.aar/83c11b0f656c5895f22737b2d8d1b5a3/res/anim/fragment_fade_enter.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/anim/btn_checkbox_to_checked_box_outer_merged_animation.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/8399f5500dd7d4fedde9e5173720821e/res/anim/btn_checkbox_to_checked_box_outer_merged_animation.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/8399f5500dd7d4fedde9e5173720821e/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/anim/fragment_open_enter.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/fragment-1.2.0.aar/83c11b0f656c5895f22737b2d8d1b5a3/res/anim/fragment_open_enter.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/8399f5500dd7d4fedde9e5173720821e/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/anim/btn_checkbox_to_unchecked_icon_null_animation.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/8399f5500dd7d4fedde9e5173720821e/res/anim/btn_checkbox_to_unchecked_icon_null_animation.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/8399f5500dd7d4fedde9e5173720821e/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/anim/abc_tooltip_exit.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/8399f5500dd7d4fedde9e5173720821e/res/anim/abc_tooltip_exit.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/8399f5500dd7d4fedde9e5173720821e/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/anim/fragment_fade_exit.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/fragment-1.2.0.aar/83c11b0f656c5895f22737b2d8d1b5a3/res/anim/fragment_fade_exit.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/anim/fragment_open_exit.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/fragment-1.2.0.aar/83c11b0f656c5895f22737b2d8d1b5a3/res/anim/fragment_open_exit.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/anim/catalyst_slide_down.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.61.0.aar/ac53a2befb0ee461b72a6bc12ea03e94/res/anim/catalyst_slide_down.xml"
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/layout/select_dialog_singlechoice_material.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/8399f5500dd7d4fedde9e5173720821e/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/layout/abc_list_menu_item_radio.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/8399f5500dd7d4fedde9e5173720821e/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/layout/abc_list_menu_item_icon.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/8399f5500dd7d4fedde9e5173720821e/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/8399f5500dd7d4fedde9e5173720821e/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/layout/notification_template_big_media_narrow_custom.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/cd83aba9c20a0658942a1a96381f632a/res/layout/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/layout/abc_dialog_title_material.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/8399f5500dd7d4fedde9e5173720821e/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/layout/abc_list_menu_item_layout.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/8399f5500dd7d4fedde9e5173720821e/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/layout/redbox_view.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.61.0.aar/ac53a2befb0ee461b72a6bc12ea03e94/res/layout/redbox_view.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/layout/abc_tooltip.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/8399f5500dd7d4fedde9e5173720821e/res/layout/abc_tooltip.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/layout/activity_jitsi_meet.xml",
+        "source": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/src/main/res/layout/activity_jitsi_meet.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/layout/select_dialog_multichoice_material.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/8399f5500dd7d4fedde9e5173720821e/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/layout/abc_action_menu_item_layout.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/8399f5500dd7d4fedde9e5173720821e/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/layout/abc_activity_chooser_view.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/8399f5500dd7d4fedde9e5173720821e/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/layout/notification_media_cancel_action.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/cd83aba9c20a0658942a1a96381f632a/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/layout/notification_template_media_custom.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/cd83aba9c20a0658942a1a96381f632a/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/8399f5500dd7d4fedde9e5173720821e/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/layout/notification_template_big_media_custom.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/cd83aba9c20a0658942a1a96381f632a/res/layout/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/layout/abc_action_bar_up_container.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/8399f5500dd7d4fedde9e5173720821e/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/layout/abc_search_view.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/8399f5500dd7d4fedde9e5173720821e/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/layout/notification_template_part_time.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/c0af93d9e6c4ad8a0c1609cb7a6bfb9a/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/layout/notification_template_big_media_narrow.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/cd83aba9c20a0658942a1a96381f632a/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/layout/notification_template_big_media.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/cd83aba9c20a0658942a1a96381f632a/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/layout/abc_popup_menu_item_layout.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/8399f5500dd7d4fedde9e5173720821e/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/layout/notification_media_action.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/cd83aba9c20a0658942a1a96381f632a/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/8399f5500dd7d4fedde9e5173720821e/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/layout/notification_template_media.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/cd83aba9c20a0658942a1a96381f632a/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/layout/dev_loading_view.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.61.0.aar/ac53a2befb0ee461b72a6bc12ea03e94/res/layout/dev_loading_view.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/8399f5500dd7d4fedde9e5173720821e/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/layout/abc_action_mode_close_item_material.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/8399f5500dd7d4fedde9e5173720821e/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/8399f5500dd7d4fedde9e5173720821e/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/layout/abc_action_menu_layout.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/8399f5500dd7d4fedde9e5173720821e/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/8399f5500dd7d4fedde9e5173720821e/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/layout/custom_dialog.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/c0af93d9e6c4ad8a0c1609cb7a6bfb9a/res/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/layout/abc_select_dialog_material.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/8399f5500dd7d4fedde9e5173720821e/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/layout/abc_alert_dialog_title_material.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/8399f5500dd7d4fedde9e5173720821e/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/8399f5500dd7d4fedde9e5173720821e/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/layout/abc_action_bar_title_item.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/8399f5500dd7d4fedde9e5173720821e/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/layout/notification_template_part_chronometer.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/c0af93d9e6c4ad8a0c1609cb7a6bfb9a/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/layout/abc_cascading_menu_item_layout.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/8399f5500dd7d4fedde9e5173720821e/res/layout/abc_cascading_menu_item_layout.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/layout/notification_template_lines_media.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/cd83aba9c20a0658942a1a96381f632a/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/layout/abc_screen_simple.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/8399f5500dd7d4fedde9e5173720821e/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/layout/abc_expanded_menu_layout.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/8399f5500dd7d4fedde9e5173720821e/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/layout/fps_view.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.61.0.aar/ac53a2befb0ee461b72a6bc12ea03e94/res/layout/fps_view.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/layout/abc_action_mode_bar.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/8399f5500dd7d4fedde9e5173720821e/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/layout/redbox_item_title.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.61.0.aar/ac53a2befb0ee461b72a6bc12ea03e94/res/layout/redbox_item_title.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/layout/redbox_item_frame.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.61.0.aar/ac53a2befb0ee461b72a6bc12ea03e94/res/layout/redbox_item_frame.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/layout/select_dialog_item_material.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/8399f5500dd7d4fedde9e5173720821e/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/layout/abc_screen_toolbar.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/8399f5500dd7d4fedde9e5173720821e/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/layout/abc_alert_dialog_material.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/8399f5500dd7d4fedde9e5173720821e/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/layout/abc_screen_content_include.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/8399f5500dd7d4fedde9e5173720821e/res/layout/abc_screen_content_include.xml"
+    }
+]

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.squareup.leakcanary:shark-graph:2.0-beta-5@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.leakcanary/shark-graph/2.0-beta-5/47e18ec5b73727517ba1fcd992b293c76fe19fbf/shark-graph-2.0-beta-5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.leakcanary/shark-graph/2.0-beta-5/1262ad7c57c20fd6548f1494b0c8a6c629182d8c/shark-graph-2.0-beta-5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

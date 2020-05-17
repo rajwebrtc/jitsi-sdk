@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/color/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/8399f5500dd7d4fedde9e5173720821e/res/color/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/color/abc_tint_seek_thumb.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/8399f5500dd7d4fedde9e5173720821e/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/color/abc_search_url_text.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/8399f5500dd7d4fedde9e5173720821e/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/color/abc_tint_btn_checkable.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/8399f5500dd7d4fedde9e5173720821e/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/color/abc_primary_text_material_light.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/8399f5500dd7d4fedde9e5173720821e/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/color/abc_tint_switch_track.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/8399f5500dd7d4fedde9e5173720821e/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/color/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/8399f5500dd7d4fedde9e5173720821e/res/color/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/color/abc_tint_edittext.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/8399f5500dd7d4fedde9e5173720821e/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/color/abc_tint_spinner.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/8399f5500dd7d4fedde9e5173720821e/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/color/abc_hint_foreground_material_light.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/8399f5500dd7d4fedde9e5173720821e/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/8399f5500dd7d4fedde9e5173720821e/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/8399f5500dd7d4fedde9e5173720821e/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/color/abc_primary_text_material_dark.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/8399f5500dd7d4fedde9e5173720821e/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/color/abc_secondary_text_material_light.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/8399f5500dd7d4fedde9e5173720821e/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/color/switch_thumb_material_light.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/8399f5500dd7d4fedde9e5173720821e/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/color/abc_btn_colored_text_material.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/8399f5500dd7d4fedde9e5173720821e/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/color/abc_hint_foreground_material_dark.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/8399f5500dd7d4fedde9e5173720821e/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/color/abc_tint_default.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/8399f5500dd7d4fedde9e5173720821e/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/color/abc_secondary_text_material_dark.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/8399f5500dd7d4fedde9e5173720821e/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/color/switch_thumb_material_dark.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/8399f5500dd7d4fedde9e5173720821e/res/color/switch_thumb_material_dark.xml"
+    }
+]

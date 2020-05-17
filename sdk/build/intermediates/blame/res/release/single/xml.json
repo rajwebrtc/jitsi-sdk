@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/xml/file_provider_paths.xml",
+        "source": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/node_modules/react-native-webview/android/build/intermediates/packaged_res/release/xml/file_provider_paths.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/xml/rn_dev_preferences.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.61.0.aar/ac53a2befb0ee461b72a6bc12ea03e94/res/xml/rn_dev_preferences.xml"
+    }
+]

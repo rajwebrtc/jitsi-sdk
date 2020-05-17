@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/c0af93d9e6c4ad8a0c1609cb7a6bfb9a/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/c0af93d9e6c4ad8a0c1609cb7a6bfb9a/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/c0af93d9e6c4ad8a0c1609cb7a6bfb9a/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/var/mm/mob/Jitsi-Video-call/jitsi-meet/android/sdk/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/c0af93d9e6c4ad8a0c1609cb7a6bfb9a/res/layout-v21/notification_action.xml"
+    }
+]
